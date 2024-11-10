@@ -1,5 +1,7 @@
-# 💫 About Me:
-💻 Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB), onde estou explorando áreas variadas da tecnologia e aprofundando meu conhecimento em desenvolvimento web e front-end.<br>🚀 Atualmente, estou estagiando na Compass UOL, com foco em blockchain e AWS, o que tem me permitido unir teoria e prática em projetos reais e desafiadores. Tenho interesse em tecnologias emergentes e como elas podem ser aplicadas para resolver problemas do mundo real.<br>🎯 Meu objetivo é me tornar um desenvolvedor front-end altamente qualificado e contribuir com soluções inovadoras na área. Sempre em busca de aprender algo novo, acredito no poder da colaboração e estou aberto a trocar experiências com outros profissionais da área.<br>
+# 💫 Sobre mim:
+💻 Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB).<br>
+🚀 Atualmente, estou estagiando na Compass UOL, com foco em blockchain e AWS.<br>
+🎯 Estudando sobre Front mas com foco em ser Full. <br>
 
 
 ## 🌐 Socials:
