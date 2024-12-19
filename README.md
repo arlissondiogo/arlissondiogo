@@ -1,8 +1,6 @@
 # 💫 Sobre mim:
 💻 Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB).<br>
 🚀 Atualmente, estou estagiando na Compass UOL, com foco em blockchain e AWS.<br>
-🎯 Estudando sobre Front mas com foco em ser Full. <br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arlissondiogo) 
