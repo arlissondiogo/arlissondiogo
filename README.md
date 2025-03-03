@@ -1,15 +1,69 @@
-# 💫 Sobre mim:
-💻 Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB).<br>
-🚀 Atualmente, estou estagiando na Compass UOL, com foco em blockchain e AWS.<br>
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/huhbh7DzQOD6f3eVLt/giphy.gif?cid=ecf05e47vhdsslepbni0z296xeywow6t2hqj8e82hy6a4mj4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35%" alt="Nightwing GIF">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arlissondiogo) 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/Wq9Trd1Vxn8R6rd4sI/giphy.gif?cid=790b76111g37gsz141zb52zqdb6obm1q284z6cq4amf4zsc8&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Bem-vindo ao meu GitHub!" width="50" /> 
+  Bem-vindo ao meu GitHub! 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWczN2dzejE0MXpiNTJ6cWRiNm9ibTFxMjg0ejZjcTRhbWY0enNjOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Yq2DvBaatna6w5i6MY/giphy.gif" alt="Bem-vindo ao meu GitHub!" width="50" />
+</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arlissondiogo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FA4D7&width=435&lines=Ainda+estou+melhorando+meu+portfólio" alt="Typing SVG">
+</p>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=arlissondiogo&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 Sobre Mim
+
+> _"A boa interface não é vista, é sentida." – Jared Spool (Expert em UX/UI)"_
+
+💻 Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB).
+🚀 Possuo um estágio na Compass UOL, com foco em blockchain e AWS.
+🎨 Gosto bastante de Front-end
+🌍 Meu objetivo principal é ser um bom profissional na área de Desenvolvimento Web
+
+💻 **Ciência da Computação** | 🎨 **Front-end** | ⚡ **Desenvolvedor Web**
+
+---
+
+## 🔹 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Code-Python-black?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+---
+
+## 🔹 📂 Projetos Destacados
+
+## 🔹 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arlissondiogo&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arlissondiogo&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+---
+
+## 🔹 🌐 Contato
+
+📍 [**LinkedIn**](www.linkedin.com/in/árlisson-diôgo-7991a8265)
+
+---
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJubmQzNTF4ZnE3NW5iaWwxdjRxaHlvMGpxenRuejRmZmx6cnJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2QdPu0G9NEgZJ6/giphy.gif" width="200">
+</p>
+
+
+
+<h5 align="center"> Se você está criando para a web, crie para o usuário. O design não é sobre você, é sobre eles." – Paul Boag (Especialista em UX e Web Design) </h5>
+
