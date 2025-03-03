@@ -48,14 +48,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arlissondiogo&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arlissondiogo&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
 
 ## 🔹 🌐 Contato
 
-📍 **LinkedIn:** [arlissondiogo](www.linkedin.com/in/árlisson-diôgo-7991a8265)
+📍 **LinkedIn:** [arlissondiogo](https://www.linkedin.com/in/árlisson-diôgo-7991a8265)
 
 ---
 
