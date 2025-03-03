@@ -60,4 +60,4 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJubmQzNTF4ZnE3NW5iaWwxdjRxaHlvMGpxenRuejRmZmx6cnJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2QdPu0G9NEgZJ6/giphy.gif" width="200">
 </p>
 
-<h3 align="center"> Se você está criando para a web, crie para o usuário. O design não é sobre você, é sobre eles." – Paul Boag (Especialista em UX e Web Design) </h3>
+<h3 align="center"> Se você está criando para a web, crie para o usuário. O design não é sobre você, é sobre eles." – Paul Boag </h3>
