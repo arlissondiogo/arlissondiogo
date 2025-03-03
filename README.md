@@ -22,11 +22,10 @@
 > _"A boa interface não é vista, é sentida." – Jared Spool (Expert em UX/UI)"_
 
 💻 Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB).
-🚀 Possuo um estágio na Compass UOL, com foco em blockchain e AWS.
-🎨 Gosto bastante de Front-end
-🌍 Meu objetivo principal é ser um bom profissional na área de Desenvolvimento Web
 
-💻 **Ciência da Computação** | 🎨 **Front-end** | ⚡ **Desenvolvedor Web**
+🚀 Possuo um estágio na Compass UOL, com foco em blockchain e AWS.
+
+🎨 **Front-end** | ⚡ **Desenvolvedor Web**
 
 ---
 
