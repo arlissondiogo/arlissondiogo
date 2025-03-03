@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWczN2dzejE0MXpiNTJ6cWRiNm9ibTFxMjg0ejZjcTRhbWY0enNjOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Yq2DvBaatna6w5i6MY/giphy.gif" alt="Bem-vindo ao meu GitHub!" width="50" />
 </h1>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FA4D7&width=435&lines=Ainda+estou+melhorando+meu+portfólio" alt="Typing SVG">
 </p>
@@ -50,9 +48,13 @@
 
 ---
 
-## 🔹 🌐 Contato
+## 🔹 🌐 Vamos se conectar
 
-📍 **LinkedIn:** [arlissondiogo](https://www.linkedin.com/in/árlisson-diôgo-7991a8265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/árlisson-diôgo-7991a8265)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arlissondiogo/)
+
+[![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=diodev&logoColor=white)](https://www.dio.me/users/arlissondiogo09)
 
 ---
 
@@ -60,7 +62,4 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJubmQzNTF4ZnE3NW5iaWwxdjRxaHlvMGpxenRuejRmZmx6cnJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2QdPu0G9NEgZJ6/giphy.gif" width="200">
 </p>
 
-
-
 <h5 align="center"> Se você está criando para a web, crie para o usuário. O design não é sobre você, é sobre eles." – Paul Boag (Especialista em UX e Web Design) </h5>
-
