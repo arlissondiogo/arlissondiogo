@@ -55,7 +55,7 @@
 
 ## 🔹 🌐 Contato
 
-📍 [**LinkedIn**](www.linkedin.com/in/árlisson-diôgo-7991a8265)
+📍 **LinkedIn:** [arlissondiogo](www.linkedin.com/in/árlisson-diôgo-7991a8265)
 
 ---
 
