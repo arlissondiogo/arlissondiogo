@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="35%" alt="Nightwing GIF">
+  <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="35%">
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/Wq9Trd1Vxn8R6rd4sI/giphy.gif?cid=790b76111g37gsz141zb52zqdb6obm1q284z6cq4amf4zsc8&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Bem-vindo ao meu GitHub!" width="50" /> 
+  <img src="https://i.pinimg.com/originals/58/a3/48/58a3489b4e73faae781a78e842c5a21a.gif" width="50" /> 
   Bem-vindo ao meu GitHub! 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWczN2dzejE0MXpiNTJ6cWRiNm9ibTFxMjg0ejZjcTRhbWY0enNjOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Yq2DvBaatna6w5i6MY/giphy.gif" alt="Bem-vindo ao meu GitHub!" width="50" />
+  <img src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif" width="50" />
 </h1>
 
 ---
