@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif" width="40" />
 </h1>
 
-<p align="center">💻 Desenvolvedor Web | 🎨 Front-end | 🚀 Explorando Blockchain & AWS</p>
+<p align="center">💻 Desenvolvedor Web | 🎨 Front-end 
 
 ---
 
