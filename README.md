@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/huhbh7DzQOD6f3eVLt/giphy.gif?cid=ecf05e47vhdsslepbni0z296xeywow6t2hqj8e82hy6a4mj4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35%" alt="Nightwing GIF">
+  <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="35%" alt="Nightwing GIF">
 </p>
 
 <h1 align="center">
