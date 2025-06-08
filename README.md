@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif" width="40" />
 </h1>
 
-<p align="center">💻 Desenvolvedor Web | 🎨 Front-end 
+<p align="center">💻 Desenvolvedor Web | 🎨 Front-end </p>
 
 ---
 
@@ -28,13 +28,22 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔧 *Em construção... em breve adicionarei projetos que mostram o que estou desenvolvendo e aprendendo.*
+- 🚀 [**TrainTrack Backend**](https://github.com/arlissondiogo/backend-traintrack)  
+  API em Node.js com Express e MongoDB para registro e análise de treinos.
+
+- 🎨 [**TrainTrack Frontend**](https://github.com/arlissondiogo/frontend-traintrack)  
+  Interface em React para visualizar progresso de treino com gráficos interativos.
 
 ---
 
