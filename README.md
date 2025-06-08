@@ -15,8 +15,8 @@
 ## 🧑‍💻 Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação na **UEPB**
-- 🚀 Estagiário na **Compass UOL**, com foco em **Blockchain** e **AWS**
-- 🎯 Interesses em **desenvolvimento front-end**, design de interfaces e tecnologias modernas para web
+- 🚀 Possuo estágio na **Compass UOL**, com foco em **Blockchain** e **AWS**
+- 🎯 Interesses em **desenvolvimento Full Stack Web**, design de interfaces e tecnologias modernas para web
 
 ---
 
