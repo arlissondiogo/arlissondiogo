@@ -16,7 +16,7 @@
 
 - 🎓 Estudante de Ciência da Computação na **UEPB**
 - 🚀 Possuo estágio na **Compass UOL**, com foco em **Blockchain** e **AWS**
-- 🎯 Interesses em **desenvolvimento Full Stack Web**, design de interfaces e tecnologias modernas para web
+- 🎯 Interesses em **desenvolvimento Back-End JAVA**
 
 ---
 
@@ -40,10 +40,16 @@
 ## 📌 Projetos em Destaque
 
 - 🚀 [**TrainTrack Backend**](https://github.com/arlissondiogo/backend-traintrack)  
-  API em Node.js com Express e MongoDB para registro e análise de treinos.
+  API em **Node.js** com **Express** e **MongoDB** para registro e análise de treinos.
 
 - 🎨 [**TrainTrack Frontend**](https://github.com/arlissondiogo/frontend-traintrack)  
-  Interface em React para visualizar progresso de treino com gráficos interativos.
+  Interface em **React** para visualizar progresso de treino com gráficos interativos.
+
+- 💱 [**Conversor de Moedas**](https://github.com/arlissondiogo/currency-converter-app)  
+  Aplicativo em **Java** utilizando a API **ExchangeRate** para conversão de moedas.
+
+- 🤣 [**Gerador de Piadas**](https://github.com/arlissondiogo/gerador-piadas-java)  
+  Aplicativo em **Java** que gera piadas usando as APIs **JokeAPI** e **MyMemory API**.
 
 ---
 
@@ -71,8 +77,3 @@
 <p align="center">
   <img src="https://i.gifer.com/Bh1P.gif" width="200" />
 </p>
-
-<h4 align="center">
-  “Se você está criando para a web, crie para o usuário. <br />
-  O design não é sobre você, é sobre eles.” – Paul Boag
-</h4>
