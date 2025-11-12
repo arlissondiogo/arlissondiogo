@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif" width="40" />
 </h1>
 
-<p align="center">💻 Desenvolvedor Web </p>
+<p align="center">💻 Backend JAVA </p>
 
 ---
 
@@ -16,7 +16,7 @@
 
 - 🎓 Estudante de Ciência da Computação na **UEPB**
 - 🚀 Possuo estágio na **Compass UOL**, com foco em **Blockchain** e **AWS**
-- 🎯 Interesses em **desenvolvimento Back-End JAVA**
+- 🎯 Interesses em **desenvolvimento Backend JAVA**
 
 ---
 
