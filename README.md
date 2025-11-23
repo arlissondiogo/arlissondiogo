@@ -37,7 +37,7 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos
 
 - 🚀 [**TrainTrack Backend**](https://github.com/arlissondiogo/backend-traintrack)  
   API em **Node.js** com **Express** e **MongoDB** para registro e análise de treinos.
