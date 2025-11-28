@@ -65,7 +65,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.gifer.com/Bh1P.gif" width="200" />
-</p>
