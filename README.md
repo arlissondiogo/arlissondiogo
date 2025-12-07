@@ -1,5 +1,23 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="200"/>
+  <a href="https://br.linkedin.com/in/arlisson-diogo-dev" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFflX7uQ8vNTA/profile-displayphoto-scale_200_200/B4DZrcXfMQIkAc-/0/1764633737687?e=1766620800&v=beta&t=n1Z-C2vJMjOK6FB_CJSRtreyEXEOeABCCh0b_9KhADk" 
+         alt="Árlisson Diôgo" width="120" style="border-radius:50%;" />
+  </a>
+  <h3 align="center">Árlisson Diôgo</h3>
+  <p align="center">
+    Backend | Java | Spring Boot<br>
+    Compass UOL | Universidade Estadual da Paraíba
+  </p>
+  <p align="center">
+    <a href="https://br.linkedin.com/in/arlisson-diogo" target="_blank">
+      <img src="https://img.shields.io/badge/Ver%20Perfil%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <p align="center">
+  <a href="https://www.instagram.com/arlissondiogo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+  </p>
 </p>
 
 <h1 align="center">
@@ -8,15 +26,11 @@
   <img src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif" width="40" />
 </h1>
 
-<p align="center">💻 Backend JAVA </p>
-
----
-
 ## 🧑‍💻 Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação na **UEPB**
 - 🚀 Possuo estágio na **Compass UOL**, com foco em **Blockchain** e **AWS**
-- 🎯 Interesses em **desenvolvimento Backend JAVA**
+- 🎯 Interesses em **desenvolvimento Backend JAVA**, arquitetura de APIs e **Spring Boot**
 
 ---
 
@@ -24,6 +38,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,6 +50,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+
 ---
 
 ## 📌 Projetos
@@ -44,24 +60,5 @@
 
 - 🎨 [**TrainTrack Frontend**](https://github.com/arlissondiogo/frontend-traintrack)  
   Interface em **React** para visualizar progresso de treino com gráficos interativos.
-
-- 💱 [**Conversor de Moedas**](https://github.com/arlissondiogo/currency-converter-app)  
-  Aplicativo em **Java** utilizando a API **ExchangeRate** para conversão de moedas.
-
-- 🤣 [**Gerador de Piadas**](https://github.com/arlissondiogo/gerador-piadas-java)  
-  Aplicativo em **Java** que gera piadas usando as APIs **JokeAPI** e **MyMemory API**.
-
----
-
-## 🌐 Conecte-se Comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/árlisson-diôgo-7991a8265">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/arlissondiogo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 ---
