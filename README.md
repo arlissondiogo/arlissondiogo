@@ -6,7 +6,7 @@
   <h3 align="center">Árlisson Diôgo</h3>
   <p align="center">
     Backend | Java | Spring Boot<br>
-    Compass UOL | Universidade Estadual da Paraíba
+   Universidade Estadual da Paraíba
   </p>
   <p align="center">
     <a href="https://br.linkedin.com/in/arlisson-diogo" target="_blank">
