@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://br.linkedin.com/in/arlisson-diogo-dev" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFflX7uQ8vNTA/profile-displayphoto-scale_200_200/B4DZrcXfMQIkAc-/0/1764633737687?e=1766620800&v=beta&t=n1Z-C2vJMjOK6FB_CJSRtreyEXEOeABCCh0b_9KhADk" 
-         alt="Árlisson Diôgo" width="120" style="border-radius:50%;" />
-  </a>
   <h3 align="center">Árlisson Diôgo</h3>
   <p align="center">
     Backend | Java | Spring Boot<br>
