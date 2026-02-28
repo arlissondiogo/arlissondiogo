@@ -9,8 +9,6 @@
       <img src="https://img.shields.io/badge/Ver%20Perfil%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <p align="center">
-  <a href="https://www.instagram.com/arlissondiogo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
   </p>
